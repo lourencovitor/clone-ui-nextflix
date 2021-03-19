@@ -28,6 +28,12 @@
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
+<p>To view the application
+  <a href="https://clone-ui-nextflix.vercel.app">
+    click here
+  </a>
+<p>
+
 <img width=400px height=200px src="./img-project/example.png" alt="Netflix logo"></a>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
