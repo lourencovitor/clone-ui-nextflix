@@ -29,7 +29,7 @@
 ## 🎥 Demo / Working <a name = "demo"></a>
 
 <p>To view the application
-  <a href="https://clone-ui-nextflix.vercel.app">
+  <a href="https://clone-ui-nextflix-lourencovitor.vercel.app/">
     click here
   </a>
 <p>
